@@ -1,4 +1,4 @@
-# LogicProgrammingResources
+# Logic/Relational Programming Resources
 
 Logic and Relational Programming Resources
 
